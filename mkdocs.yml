@@ -1,0 +1,5 @@
+site_name: MkDocs & Read the Docs
+nav:
+  - Home: index.md
+  - Guide: guide.md
+  - About: about.md
